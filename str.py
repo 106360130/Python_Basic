@@ -27,3 +27,4 @@ print("StrF : {}".format(StrF))
 # concatenate to a string and there have a blank between 2 words
 
 # list to str
+
